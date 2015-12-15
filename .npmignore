@@ -1,4 +1,5 @@
 node_modules
+webpack*
 demo.png
 *.log
 .DS_Store

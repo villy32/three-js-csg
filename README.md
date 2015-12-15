@@ -34,4 +34,4 @@ When instantiating the NPM module, it takes an instance of three.js therefore do
 
 ![three-js-csg](./demo.png)
 
-See a full demo in this demo at `./demo`. First clone the repo, run `npm install` and then `npm run watch`. Open `./demo/index.html` in browser to see the demo in action.
+See a full demo using this module in this repo at: `./demo`. First clone the repo, run `npm install` and then `npm run watch`. Open `./demo/index.html` in browser to see the demo in action.
